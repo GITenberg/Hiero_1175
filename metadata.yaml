@@ -1,0 +1,42 @@
+_repo: Hiero_1175
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dakyns, Henry Graham
+    aliases:
+    - Dakyns, H. G. (Henry Graham)
+    - Dakyns, Henry G. (Henry Graham)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '544'
+    url: http://www.gutenberg.org/2009/agents/544
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: ''
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialogues, Greek -- Translations into English'
+- !lcsh 'Syracuse (Italy) -- Politics and government -- Early works to 1800'
+- !lcc 'PA'
+- !lcsh 'Classical literature'
+- !lcsh 'Simonides, approximately 556 B.C.-467 B.C.'
+- !lcsh 'Hieron I, Tyrant of Syracuse, -467 B.C. or 466 B.C.'
+- !lcsh 'Despotism -- Early works to 1800'
+- GITenberg
+title: Hiero
+url: http://www.gutenberg.org/ebooks/1175
